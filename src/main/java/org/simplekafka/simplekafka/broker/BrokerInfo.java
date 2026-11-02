@@ -1,4 +1,4 @@
-package org.example.simplekafka.broker;
+package org.simplekafka.simplekafka.broker;
 
 /**
  * Holds information about a broker in the cluster
